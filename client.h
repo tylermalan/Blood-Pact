@@ -12,7 +12,7 @@ public:
 	client();									// Default constructor
 	client(std::string);						// Constructor with only one string for a name and no age
 	client(std::string, std::string);			// Constructor for full name and no age
-	client(std::string, std::string, int);		// Constructor for full name and age
+	client(std::string, std::string, int);		// Constructor for full name and agehahahahahaha
 	~client();
 
 private:
